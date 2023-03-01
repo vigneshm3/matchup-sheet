@@ -56,7 +56,7 @@ export async function load() {
         parser.write(text);
         return matchup_data;
     })
-    console.log(matchup_data)
+    // console.log(matchup_data)
     return {
         title: "XD",
         matchup_data: matchup_data_parsed

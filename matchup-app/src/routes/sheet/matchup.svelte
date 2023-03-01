@@ -18,6 +18,7 @@
         justify-self: center;
         border: 2px solid;
         padding: 5px;
+        border-radius: 10px;
     }
     .name{
         font-size: 24px;
